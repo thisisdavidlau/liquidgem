@@ -43,12 +43,20 @@ nav ul {
 
 nav ul li {
 	display: inline;
-	padding-right: 30px;
+	margin-right: 30px;
 }
 
 nav ul li a {
 	font-family: 'Roboto', sans-serif;
 	font-size: 12px;
+	text-decoration: none;
+	color: #50525B;
+}
+
+nav ul li a:hover {
+	font-family: 'Roboto', sans-serif;
+	font-size: 12px;
+	font-weight: 700;
 	text-decoration: none;
 	color: #50525B;
 }
@@ -143,6 +151,7 @@ section div a {
 	height: 130px;
 	overflow: hidden;
 	border-radius: 10px;
+	box-shadow: 2px 2px 2px 2px #E3E3E3;
 	/*border-radius: 25px;*/
 }
 
@@ -176,7 +185,7 @@ section div a {
 
 .spain div p {
 	margin: 0;
-	padding-top: 2px;
+	/*padding-top: 1px;*/
 	padding-left: 5px;
 	font-size: 12px;
 	font-family: 'Cookie', cursive;
@@ -195,6 +204,7 @@ section div a {
 	height: 130px;
 	overflow: hidden;
 	border-radius: 10px;
+	box-shadow: 2px 2px 2px 2px #E3E3E3;
 	/*border-radius: 25px;*/
 }
 
@@ -228,7 +238,7 @@ section div a {
 
 .bahrain div p {
 	margin: 0;
-	padding-top: 2px;
+	/*padding-top: 2px;*/
 	padding-left: 5px;
 	font-size: 12px;
 	font-family: 'Cookie', cursive;
@@ -243,6 +253,7 @@ section div a {
 	height: 130px;
 	overflow: hidden;
 	border-radius: 10px;
+	box-shadow: 2px 2px 2px 2px #E3E3E3;
 	/*border-radius: 25px;*/
 }
 
@@ -276,7 +287,7 @@ section div a {
 
 .wild div p {
 	margin: 0;
-	padding-top: 2px;
+	/*padding-top: 2px;*/
 	padding-left: 5px;
 	font-size: 12px;
 	font-family: 'Cookie', cursive;
@@ -291,6 +302,7 @@ section div a {
 	height: 130px;
 	overflow: hidden;
 	border-radius: 10px;
+	box-shadow: 2px 2px 2px 2px #E3E3E3;
 	/*border-radius: 25px;*/
 }
 
@@ -324,7 +336,7 @@ section div a {
 
 .lazy div p {
 	margin: 0;
-	padding-top: 2px;
+	/*padding-top: 2px;*/
 	padding-left: 5px;
 	font-size: 12px;
 	font-family: 'Cookie', cursive;
@@ -340,6 +352,7 @@ section div a {
 	height: 130px;
 	overflow: hidden;
 	border-radius: 10px;
+	box-shadow: 2px 2px 2px 2px #E3E3E3;
 	/*border-radius: 25px;*/
 }
 
@@ -373,7 +386,7 @@ section div a {
 
 .trapped div p {
 	margin: 0;
-	padding-top: 2px;
+	/*padding-top: 2px;*/
 	padding-left: 5px;
 	font-size: 12px;
 	font-family: 'Cookie', cursive;
@@ -392,6 +405,7 @@ section div a {
 	height: 130px;
 	overflow: hidden;
 	border-radius: 10px;
+	box-shadow: 2px 2px 2px 2px #E3E3E3;
 	/*border-radius: 25px;*/
 }
 
@@ -425,7 +439,7 @@ section div a {
 
 .core div p {
 	margin: 0;
-	padding-top: 2px;
+	/*padding-top: 2px;*/
 	padding-left: 5px;
 	font-size: 12px;
 	font-family: 'Cookie', cursive;
@@ -441,6 +455,7 @@ section div a {
 	height: 130px;
 	overflow: hidden;
 	border-radius: 10px;
+	box-shadow: 2px 2px 2px 2px #E3E3E3;
 	/*border-radius: 25px;*/
 }
 
@@ -474,7 +489,7 @@ section div a {
 
 .retro div p {
 	margin: 0;
-	padding-top: 2px;
+	/*padding-top: 2px;*/
 	padding-left: 5px;
 	font-size: 12px;
 	font-family: 'Cookie', cursive;
@@ -489,6 +504,7 @@ section div a {
 	height: 130px;
 	overflow: hidden;
 	border-radius: 10px;
+	box-shadow: 2px 2px 2px 2px #E3E3E3;
 	/*border-radius: 25px;*/
 }
 
@@ -522,7 +538,7 @@ section div a {
 
 .gates div p {
 	margin: 0;
-	padding-top: 2px;
+	/*padding-top: 2px;*/
 	padding-left: 5px;
 	font-size: 12px;
 	font-family: 'Cookie', cursive;
@@ -537,6 +553,7 @@ section div a {
 	height: 130px;
 	overflow: hidden;
 	border-radius: 10px;
+	box-shadow: 2px 2px 2px 2px #E3E3E3;
 	/*border-radius: 25px;*/
 }
 
@@ -570,7 +587,7 @@ section div a {
 
 .winter div p {
 	margin: 0;
-	padding-top: 2px;
+	/*padding-top: 2px;*/
 	padding-left: 5px;
 	font-size: 12px;
 	font-family: 'Cookie', cursive;
@@ -586,6 +603,7 @@ section div a {
 	height: 130px;
 	overflow: hidden;
 	border-radius: 10px;
+	box-shadow: 2px 2px 2px 2px #E3E3E3;
 	/*border-radius: 25px;*/
 }
 
@@ -619,7 +637,7 @@ section div a {
 
 .burn div p {
 	margin: 0;
-	padding-top: 2px;
+	/*padding-top: 2px;*/
 	padding-left: 5px;
 	font-size: 12px;
 	font-family: 'Cookie', cursive;
@@ -627,4 +645,106 @@ section div a {
 }
 
 
+/*thanks*/
 
+section h3 {
+	padding-top: 20px;
+	font-family: 'Cookie', cursive;
+	color: #EAACB5;
+	font-size: 150%;
+}
+
+/*FOOTER*/
+
+footer {
+	margin: 0 auto;
+	width: 775px;
+	height: 300px;
+	background-color: #2D2D2D;
+	text-align: left;
+	padding-left: 15px;
+}
+
+footer h2 {
+	margin: 0;
+	font-size: 150%;
+	font-family: 'Cookie', cursive;
+	color: #D97083;
+	padding-top: 20px;
+}
+
+form {
+	display: inline;
+	float: left;
+	width: 50%;
+}
+
+form input,
+form textarea {
+	display: block;
+	margin-top: 10px;
+	width: 90%;
+	font-size: 12px;
+	font-family: 'Roboto', sans-serif;
+	background-color: #D9D9D9;
+	border-radius: 3px;
+
+}
+
+form input {
+	height: 20px;
+}
+
+form button {
+	margin-top: 10px;
+	color: white;
+	background-color: transparent;
+	border: none;
+	cursor: pointer;
+
+}
+
+.socialMedia {
+	display: inline;
+	position: relative;
+	float: right;
+	text-decoration: none;
+	right: 15px;
+	top: 55px;
+}
+
+.fa-facebook {
+	margin-right: 10px;
+	background-color: #D97083;
+	padding: 6px 9px;
+	border-radius: 25px;
+	font-size: 80%;
+	color: #2D2D2D;
+}
+
+.fa-twitter {
+	margin-right: 10px;
+	background-color: #D97083;
+	padding: 6px 6px;
+	border-radius: 25px;
+	font-size: 80%;
+	color: #2D2D2D;
+}
+
+.fa-youtube {
+	margin-right: 10px;
+	background-color: #D97083;
+	padding: 6px 7px;
+	border-radius: 25px;
+	font-size: 80%;
+	color: #2D2D2D;
+}
+
+.fa-google {
+	margin-right: 10px;
+	background-color: #D97083;
+	padding: 6px 8px;
+	border-radius: 25px;
+	font-size: 80%;
+	color: #2D2D2D;
+}
